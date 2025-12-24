@@ -1,0 +1,51 @@
+# One Direction – Loved You First
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I read about it, how you changed your name
+You always wanted, that special day
+You'll probably see the world, and when the time is right, you'll make another you, I hope he has your smile
+And I know we had our flaws, stitched together with good intentions,
+I can deal with being alone
+I'll let go cause I know I should
+Cause I know that you'll be happy
+and I know you're loving someone, but me
+I can take it but the one thing that's really
+hurting the worst:
+I'm the one that loved you first
+I'm the one that loved you first
+Don't get it twisted, boy I'm not upset, you've found
+another love. I'm happy that we gave our best
+They say for happiness, you gotta take that risk,
+you did the right thing, boy to not settle for this
+And I know we had our flaws, stitched together
+with good intentions, I can deal with being alone
+I'll let go cause I know I should
+Cause I know that you'll be happy
+and I know you're loving someone, but me
+I can take it but the one thing that's really
+hurting the worst:
+I'm the one that loved you first
+I'm the one that loved you first
+I'm the one that loved you first
+I'm the one that loved you first
+I can take it but the one thing that's really
+hurting the worst: I'm the one that loved you first
+Do you remember when we said we're in this
+whatever. Do you remember our first fight, first cry
+together. Do you remember when we first lied,
+first said forever. Now when I close my eyes
+I remember the time
+Cause I know that you'll be happy
+and I know you're loving someone, but me
+I can take it but the one thing that's really
+hurting the worst:
+I'm the one that loved you first
+I'm the one that loved you first
+
+I can take it but the one thing that's really
+hurting the worst:
+I'm the one that loved you first
+I'm the one that loved you first
+```
