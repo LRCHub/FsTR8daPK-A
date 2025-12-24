@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Loved You First",
+  "base_artist": "One Direction",
+  "createdAt": "2025-12-24T15:53:37.775159Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/01_Loved_You_First_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "i loved you first",
+      "artist": "joan",
+      "has_synced": true,
+      "path": "select/02_i_loved_you_first_joan.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "Alanna Matty",
+      "has_synced": false,
+      "path": "select/03_Loved_You_First_Alanna_Matty.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/04_Loved_You_First_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "Leah Nobel",
+      "has_synced": false,
+      "path": "select/05_Loved_You_First_Leah_Nobel.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Loved You First (Duet Version)",
+      "artist": "Rita Wilson",
+      "has_synced": true,
+      "path": "select/06_I_Loved_You_First_(Duet_Version)_Rita_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/07_Loved_You_First_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Who Loved You First",
+      "artist": "NewSong",
+      "has_synced": true,
+      "path": "select/08_Who_Loved_You_First_NewSong.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "Gabe Bondoc",
+      "has_synced": true,
+      "path": "select/09_Loved_You_First_Gabe_Bondoc.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "Jez Dior",
+      "has_synced": true,
+      "path": "select/10_Loved_You_First_Jez_Dior.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/11_Loved_You_First_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "One Direction",
+      "has_synced": true,
+      "path": "select/12_Loved_You_First_One_Direction.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "i loved you first",
+      "artist": "Joan",
+      "has_synced": true,
+      "path": "select/13_i_loved_you_first_Joan.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "Krimsonn",
+      "has_synced": true,
+      "path": "select/14_Loved_You_First_Krimsonn.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Loved You First",
+      "artist": "OG3NE",
+      "has_synced": false,
+      "path": "select/15_Loved_You_First_OG3NE.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Loved You First",
+      "artist": "One Direction",
+      "has_synced": false,
+      "path": "select/pl_01_Loved_You_First_One_Direction.txt"
+    }
+  ]
+}
